@@ -82,3 +82,5 @@ for i in range(1, 10) :
          
     #     elif (grid[0][0] == "O" and grid[1][1] == "O" and grid[2][2] == "O") or (grid[0][0] == "O" and grid[1][1] == "O" and grid[2][2] == "O") :
     #             print("축하합니다~ O가 이겼습니다.")
+        
+
